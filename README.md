@@ -14,10 +14,7 @@ This project includes a beautiful UI, smooth interactions, and fast deployment w
 
 - 🔢 Increase / Decrease the counter  
 - 🔄 Reset the counter  
-- ⚡ Super-fast development environment using **Vite**  
-- 🎨 Modern, attractive UI (fully custom CSS)  
-- 📱 Responsive layout  
-- 🚀 Automatically deployed on **Vercel**
+
 
 ---
 

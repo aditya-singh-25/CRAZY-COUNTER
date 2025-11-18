@@ -9,7 +9,7 @@ This project includes a beautiful UI, smooth interactions, and fast deployment w
 ## 🌐 Live Demo: 
 👉 https://aditya-crazy-counter.vercel.app/
 
-
+---
 
 ## ✨ Features
 

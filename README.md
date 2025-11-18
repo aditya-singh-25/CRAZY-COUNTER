@@ -3,7 +3,7 @@
 A modern and stylish counter application built using **React** and **Vite**.  
 This project includes a beautiful UI, smooth interactions, and fast deployment with Vercel.
 
-🌐 **Live Demo:**  
+🌐 ##Live Demo: 
 👉 https://aditya-crazy-counter.vercel.app/
 
 ---
@@ -28,3 +28,6 @@ This project includes a beautiful UI, smooth interactions, and fast deployment w
 
 ---
 
+## 1️⃣ Clone the repository
+
+- git clone https://github.com/aditya-singh-25/CRAZY-COUNTER.git
